@@ -1,0 +1,15 @@
+Você pode guardar três tipos de dados:
+
+números
+     números inteiros(130,-18, 0) números que não tem ponto flutuante, são números inteiros.
+     números reais (4.6, 4,9) Eles tem ponto flutuante, ou seja, possuem casas decimais.
+
+letras
+     caracteres ('A') Normalmente usa-se aspas simples para caractere
+     cadeia de caracteres ("OLÁ") Para cadeia(que pode ir de 0 a vários caracteres) de caraceres, usa-se aspas duplas.
+
+respostas (sim ou não)
+     valor lógico(boleano) é o famoso verdadeiro ou falso.
+
+
+No Java e no C, o ponto flutuante é conhecido como float.

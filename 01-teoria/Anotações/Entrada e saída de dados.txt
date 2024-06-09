@@ -1,0 +1,10 @@
+O que é entrada de dados? 
+É quando você envia dados para o computador, como o seu teclado e mouse.
+Ele envia informalçoes pro seu PC.
+
+Já a o seu monitor é a saída de dados, pois ele retorna dados processados para os seus usuários.
+
+Há também dispositivos que conseguem fazer entrada e saída de dados, como os CDS e Pendrives..
+
+Se vc quiser fazer algo sair para a tela, use o código "escreva()".
+Se vc deseja enviar informações para dentro da máquina, use a função "leia()"

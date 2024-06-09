@@ -1,0 +1,36 @@
++ = ADIÇÃO
+- = SUBTRAÇÃO
+* = MULTIPLICAÇÃO
+/ = DIVISÃO INTEIRA
+% = MÓDULO DA DIVISÃO (RESTO DA DIVISÃO)
+
+FORMA UNÁRIA: é a representação de um só número.
+Ou seja, ele é utilizado somente para dizer o sinal de um número isso é, se é verdadeiro ou se é falso.
++1, +6, -9, -8.
+
+
+FORMA BINÁRIA: Agora se pegar dois operandos, tanto somando um com o outro quando tirando um do outro.
+Por exemplo, se existe a seguinte conta 6 + 2, o sinal de "+" não serve para dizer o sinal do número dois mas sim para somá-lo a 4.
+Existem operadores que são sempre binários como a multiplicação(*), divisão(/).
+
+
+ORDEM DE PRECEDÊNCIA:
+
+1ª coisa a resolver são os parênteses, 
+Depois vai resolver todos os operadores UNÁRIOS (que validam o sinal de um valor). 
+Depois vem a multiplicação e divisões na ordem de precedência, quem vir antes vc resolve.
+Depois vem os + e - binários, que somam/subtraem valores.
+
+
+BIBLIOTECAS
+Se você deseja fazer uma função que não vem junto com a linguagem é bem provável que exista uma biblioteca com essa função.
+No portugol studio você deve usar o comando "inclua biblioteca (nome da biblioteca)"
+Você ainda pode dar uma "apelido para tua biblioteca" fazendo o seguinte comando depois de importar ela "--> (apelido)"
+
+
+Caracteristica de linguagem fortemente chipada
+Ao dividir um número inteiro por outro número inteiro, o resultado dá inteiro. Isso é, ele exclui as casas decimais.
+Ao usar o sinal de divisão inteira "/", o java e o C interpretam que aquilo é uma divisão inteira e para resolver esse problema será necessário
+converter um deles em número real. Conforme no exemplo da aula sobre operadores aritiméticos
+
+*ATENÇÃO: VOCÊ PRECISA FAZER COM QUE O SEU NÚMERO SEJA REAL NA HORA DE FAZER A CONVERSÃO.*

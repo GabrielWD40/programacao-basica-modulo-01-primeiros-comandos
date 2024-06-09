@@ -1,0 +1,17 @@
+Todo computador tem entrada, processamento e saída.
+Tudo aquilo que estamos vendo na tela está na memória principal do computador.
+
+Toda variável, todo o espaço de memória pra guardar dados tem um identificador(nome) e um tipo.
+Por exemplo, se você quer guardar o número 21 na memória, deverá referenciá-lo!
+Ele terá uma tag que o identificará e qual o tipo de dado ali dentro.
+
+Você pode colocar valores em números, letras, símbolos...
+Pra dar nome a uma variável você tem que saber 6 regras:
+
+1 - Começar com uma letras(em alguns casos como o PHP, tem que colocar o $ na frente).
+2 - Só se usa letras e números.
+3 - Nada de colocar acentos na sua variável.
+4 - Não pode conter espaços.
+5 - Não pode ter símbolos (Só o underline "_")
+6 - Não pode ser uma palavra reservada (é uma palavra que na verdade é um comando.)
+

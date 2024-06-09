@@ -1,0 +1,10 @@
+O portugol estúdio vem com uma biblioteca de texto.
+Toda linguagem de programação tem uma biblioteca específica para lidar com uma cadeia de caracteres, chamada de string.
+Chamamos essas funções de métodos e funcionalidades.
+
+texto.numeros_caracteres() → te diz quantas letras tem dentro do teu texto.
+texto.posicao_texto() → te informa a posição de uma letra
+texto.extrair_subtexto() → você consegue pegar os pedaços de um texto
+texto.substituir() → dentro de uma string é possível pegar um pedaço dessa string e transformar em outra coisa.
+texto.caixa_alta() → converter tudo pra maiúsculo
+texto.caixa_baixa() → converte tudo pra minúsculo.

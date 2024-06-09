@@ -1,0 +1,7 @@
+As bibliotecas servem para incluir mais códigos, mais funcionalidades no teu código.
+Quais as vantagens de se usar bibliotecas ao invés de inseri-lás diretamente no código é deixar
+a linguagem mais leve, economia de memória, execução mais otimizada com mais extensibilidade, isso é, você consegue criar suas próprias bibliotecas.
+
+
+Você chama uma biblioteca no começo do programa, antes de iniciar teu código. Você deve procurar como importar uma biblioteca em cada linguagem.
+Além disso, você também tem que ver em qual biblioteca tem o código de que tu precisa.

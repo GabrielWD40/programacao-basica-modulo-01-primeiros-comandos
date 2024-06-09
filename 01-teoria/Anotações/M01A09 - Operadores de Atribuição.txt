@@ -1,0 +1,24 @@
+
+
+Em casos onde você veja as variáveis da maneira abaixo:
+
+a = a * 5 "a" recebe ele mesmo multiplicado por 5.
+b = b + 5 "b" recebe ele mesmo mais 5.
+c = c - 5 "c" recebe ele mesmo menos 5.
+d = d / 5 "d" recebe ele mesmo dividido por 5.
+e = e + 5 "e" recebe ele mesmo mais 1.
+f = f - 6 "c" recebe ele mesmo menos 1
+
+Geralmente esses casos são usados em estruturas de controle (condições e laços).
+Isso é um caso de acumulador e contador.
+
+Tu pode reescrever elas de outra maneira, isso é:
+a *= 5
+b += 5 "b" recebe ele mesmo - 3
+c -= 4
+d /= 5
+
+Tem outra maneira de fazer isso, como no exemplo abaixo:
+e ++ 
+f --
+	# esse ++ / -- subentende-se que é u1

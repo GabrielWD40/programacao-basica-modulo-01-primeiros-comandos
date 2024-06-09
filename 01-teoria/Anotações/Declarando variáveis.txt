@@ -1,0 +1,31 @@
+Pra conseguir reservar um espaço na memória, vc terá que declarar essa variável.
+(em python em PHP não é necessário)
+
+1º você coloca o tipo → 2º você coloca o identificador → valor que a variável tem ou terá.
+o símbolo '=' representa recebe/atribuição.
+
+criando uma variável:
+inteiro idade 
+real nota = 7.5
+(a variável nota do tipo real recebe o valor 7,5)
+
+cadeia nome = "Zé"
+Lógico casado = falso
+(a variável casado recebe um valor falso.)
+
+
+Atribuição é '='
+
+Depuração é executar linha a linha do seu código. E depois que um programa é finalizado, suas variáveis são resetadas por coletor de lixo que libera o espaço da memória.
+
+
+exemplos:
+
+Nome = "GABRIEL"
+Idade = "21"
+Gênero = "M"
+Aprovado = verdadeiro
+
+Quando você ver o sinal de igual imagine uma setinha apontando pra esquerda.
+Nome ← "Gabriel"
+A variável nome está recebendo o nome Gabriel.

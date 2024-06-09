@@ -1,0 +1,12 @@
+Uma constante tem o seu valor fixo, diferentemente das variáveis, as contantes não mudam.
+Constante é uma variável que não varia. 
+
+Para definir uma constante use a palavra "const" antes de delcarar a variável.
+exemplo: 
+Nome = "Gabriel"
+sintaxe no portugol:
+    const Nome = "Gabriel"
+
+
+DICA DO PROFESSOR PARA CONSTANTES: 
+Quando for usar as constantes, sempre trabalhe com as letras todas em maiúsculas.
